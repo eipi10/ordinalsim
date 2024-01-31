@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Simulating ordinal data",
+    "section": "",
+    "text": "This is the online supplementary material for the tutorial-paper Ordinal regression models made easy. A tutorial on parameter interpretation, data simulation, and power analysis.\nIn the next links there are useful materials and examples that extended what presented in the tutorial-paper.\n\nUseful resources: a collection of books, blog posts, R packages and more about ordinal data\nOrdinal notes: a miscellanea of code snippets and quick examples about ordinal regression models\nLocation-scale models: a tutorial to fit, interpret and simulate location-scale cumulative link models.\nSimulating a GLM: a quick example on how to simulate data for a Generalized Linear Model (GLM).\nMixed-effects models: a quick example on how to simulate data for a Generalized Linear Model (GLM)."
+  }
+]
