@@ -68,3 +68,13 @@ $RECYCLE.BIN/
 
 _freeze/
 /.quarto/
+
+# =========================
+# PROJECT SPECIFIC
+# =========================
+
+paper/*
+!paper/paper.Rmd
+!paper/paper.pdf
+submission/
+**/deprecated/
