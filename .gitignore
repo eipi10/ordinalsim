@@ -76,5 +76,6 @@ _freeze/
 paper/*
 !paper/paper.Rmd
 !paper/paper.pdf
+!paper/packages.bib
 submission/
 **/deprecated/
