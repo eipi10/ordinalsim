@@ -186,7 +186,7 @@ We see only the expected probabilities but is not clear the impact of the scale 
 
 ```{r}
 data.frame(x = runif(1e5)) |>
-  sim_ord_latent(~x, ~x, beta = b1 zeta = z1, prob0 = rep(1/k, k), data = _, simulate = TRUE, link = "probit") |> 
+  sim_ord_latent(~x, ~x, beta = b1, zeta = z1, prob0 = rep(1/k, k), data = _, simulate = TRUE, link = "probit") |> 
   mutate(xc = cut(x, seq(0, 1, 0.1), include.lowest = TRUE),
          xc = as.integer(xc)) |> 
   group_by(xc) |> 
