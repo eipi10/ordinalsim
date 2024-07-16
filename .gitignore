@@ -79,3 +79,4 @@ paper/*
 !paper/packages.bib
 submission/
 **/deprecated/
+revision/
